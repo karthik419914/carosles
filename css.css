@@ -16,3 +16,9 @@
     height: 200px;
     padding: 3px;
   }
+ #right_curtain {
+    z-index: 1;
+    position: fixed;
+    width: auto;
+    height: 100%;
+  }
